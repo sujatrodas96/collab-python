@@ -1,1 +1,2 @@
 this is a small text file for my github practice
+new line added
